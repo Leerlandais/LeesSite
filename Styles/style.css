@@ -1,5 +1,6 @@
-p {
-    color: red;
+p { 
+    background-color: aquamarine;
+    color: #FF2800
   }
 
  h1 {
@@ -9,4 +10,21 @@ p {
 header{
   text-align: center;
   color: darkgreen;
+}
+body {
+  background-color:slategray
+}
+p a {
+  background-color: chocolate;
+}
+
+ol{
+  font-style: italic;
+}
+ul {
+  font-variant-caps: small-caps;
+}
+
+ul li{
+  color: #FF2800;
 }
